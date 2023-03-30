@@ -1,0 +1,8 @@
+/* Header section of page */
+.bgColor{background-color:#264653;}
+.navItemsContainer li a {color:white;}
+.navItemsContainer li a:hover {color:#d4cc32;font-weight: bold;}
+.navItemsContainer li a:visited {color: #11fbb1!important;}
+.btn-color {background-image: url('../images/download.svg');} 
+.menuButton:focus {box-shadow: none;border: 2px solid white!important;}
+
